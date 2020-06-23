@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.genruntimeconfig.cache
